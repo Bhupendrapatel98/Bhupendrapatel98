@@ -5,7 +5,7 @@
 
 <p align="center"><B># Hi there👋! I'm Bhupendra 😇</B></p>
 
-<p align="center">👨‍🎓 22 year old computer science engineer.</br>
+<p align="center">👨‍🎓 computer science engineer.</br>
 👨‍💻 #SelfTaught Developer.</br>
 📱 Mobile App developer.</p>
   
