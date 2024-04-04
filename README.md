@@ -7,9 +7,6 @@
 - 💬 Talk to me about Android, Kotlin, and books.  
 - 📫 Connect with me: [bhupendra.bp57@gmail.com](mailto:bhupendra.bp57@gmail.com).
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhupendrapatel98&show_icons=true)
-
 ## Skills
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
