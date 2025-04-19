@@ -2,10 +2,16 @@
 
 # About me
 
-<p>I'm an Android Developer both by passion and profession, with 3+ years of experience architecting and building cutting-edge Android apps for mobile devices in the e-commerce, social media, location tracking, educational and entertainment industries, and with 15+ projects delivered successfully.</br>
+👋 I'm an Android Developer by passion and profession, with 5+ years of experience designing and building high-performance Android apps.
 
-- 💬 Talk to me about Android, Kotlin, and books.  
-- 📫 Connect with me: [bhupendra.bp57@gmail.com](mailto:bhupendra.bp57@gmail.com).
+🚀 I’ve successfully delivered many projects across diverse domains including e-commerce, social media, location tracking, education, and entertainment — always focused on crafting clean, scalable, and user-centric solutions.
+
+💡 Skilled in Kotlin, Android Jetpack, MVVM, Clean Architecture, and modern development practices.
+I love writing elegant code and architecting robust mobile solutions that make life easier for users.
+
+- 📚 Avid reader | Tech enthusiast
+- 💬 Let’s talk Android, Java, Kotlin, clean code, or your favorite book!
+- 📫 Reach me at : [bhupendra.bp57@gmail.com](mailto:bhupendra.bp57@gmail.com).
 
 ## Skills
 <p align="left">
